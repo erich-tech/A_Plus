@@ -2,12 +2,14 @@
 
 | # | Subdomains   | 
 |---|---|
-|2.1 | [Compare and contrast TCP and UDP ports, protocols, and their purposes.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_1#11-given-a-scenario-install-and-configure-laptop-hardware-and-components) |
-|2.2 | [Compare and contrast common networking hardware devices.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_1#12-given-a-scenario-install-components-within-the-display-of-a-laptop) |
-|2.3 | [Given a scenario, install and configure a basic wired/wireless SOHO network.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_1#13-given-a-scenario-use-appropriate-laptop-features) |
-|2.4 | [Compare and contrast wireless networking protocols.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_1#14-compare-and-contrast-characteristics-of-various-types-of-other-mobile-devices) |
-|2.5 | [Summarize the properties and purposes of services provided by networked hosts.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_1#15-given-a-scenario-connect-and-configure-accessories-and-ports-of-other-mobile-devices) |
-|2.6 | [Explain common network configuration concepts.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_1#16-given-a-scenario-configure-basic-mobile-device-network-connectivity-and-application-support) |
+|2.1 | [Compare and contrast TCP and UDP ports, protocols, and their purposes.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_2#21-compare-and-contrast-tcp-and-udp-ports-protocols-and-their-purposes) |
+|2.2 | [Compare and contrast common networking hardware devices.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_2#22-compare-and-contrast-common-networking-hardware-devices) |
+|2.3 | [Given a scenario, install and configure a basic wired/wireless SOHO network.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_2#23-given-a-scenario-install-and-configure-a-basic-wiredwireless-soho-network) |
+|2.4 | [Compare and contrast wireless networking protocols.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_2#24-compare-and-contrast-wireless-networking-protocols) |
+|2.5 | [Summarize the properties and purposes of services provided by networked hosts.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_2#25-summarize-the-properties-and-purposes-of-services-provided-by-networked-hosts) |
+|2.6 | [Explain common network configuration concepts.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_2#26-explain-common-network-configuration-concepts) |
+|2.7 | [Compare and contrast Internet connection types, network types, and their features.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_2#27-compare-and-contrast-internet-connection-types-network-types-and-their-features) |
+|2.8 | [Given a scenario, use appropriate networking tools.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_2#28-given-a-scenario-use-appropriate-networking-tools) |
 
 
 ```
