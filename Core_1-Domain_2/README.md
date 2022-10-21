@@ -92,3 +92,85 @@ NOTE: Work in progress. Please come back again soon!
 	* Encryption
 	* Channels
 	* QoS
+## 2.4 Compare and contrast wireless networking protocols
+* 802.11a
+* 802.11b
+* 802.11g
+* 802.11n
+* 802.11ac
+* Frequencies
+	* 2.4Ghz
+	* 5Ghz
+* Channels
+	* 1–11
+* Bluetooth
+* NFC
+* RFID
+* Zigbee
+* Z-Wave
+* 3G
+* 4G
+* 5G
+* LTE
+
+## 2.5 Summarize the properties and purposes of services provided by networked hosts
+* Server roles
+	* Web server
+	* File server
+	* Print server
+	* DHCP server
+	* DNS server
+	* Proxy server
+	* Mail server
+	* Authentication server
+	* syslog
+* Internet appliance
+	* UTM
+	* IDS
+	* IPS
+	* End-point management server
+* Legacy/embedded systems
+## 2.6 Explain common network configuration concepts.
+* IP addressing
+	* Static
+	* Dynamic
+	* APIPA
+	* Link local
+* DHCP
+	* Reservations
+* IPv4 vs. IPv6
+* Subnet mask
+* Gateway
+* DNS
+* NAT
+* VPN
+* VLAN
+
+## 2.7 Compare and contrast Internet connection types, network types, and their features
+* Internet connection types
+	* Cable
+	* DSL
+	* Dial-up
+	* Fiber
+	* Satellite
+	* ISDN
+	* Cellular
+	* Tethering
+	* Mobile hotspot
+	* Line-of-sight wireless Internet service
+* Network types
+	* LAN
+	* WAN
+	* PAN
+	* MAN
+	* WMN
+
+## 2.8 Given a scenario, use appropriate networking tools
+* Crimper
+* Cable stripper
+* Multimeter
+* Tone generator and probe
+* Cable tester
+* Loopback plug
+* Punchdown tool
+* WiFi analyzer
