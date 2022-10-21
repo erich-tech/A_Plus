@@ -2,13 +2,13 @@
 
 | # | Subdomains   | 
 |---|---|
-|1.1 | [Given a scenario, install and configure laptop hardware and components.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_1-IT_Concepts_and_Terminology#11-compare-and-contrast-notational-systems) |
-|1.2 | [Given a scenario, install components within the display of a laptop.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_1-IT_Concepts_and_Terminology#12-compare-and-contrast-fundamental-data-types-and-their-characteristics) |
-|1.3 | [Given a scenario, use appropriate laptop features.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_1-IT_Concepts_and_Terminology#13-illustrate-the-basics-of-computing-and-processing) |
-|1.4 | [Compare and contrast characteristics of various types of other mobile devices.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_1-IT_Concepts_and_Terminology#14-explain-the-value-of-data-and-information) |
-|1.5 | [Given a scenario, connect and configure accessories and ports of other mobile devices.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_1-IT_Concepts_and_Terminology#15-compare-and-contrast-common-units-of-measure) |
-|1.6 | [Given a scenario, configure basic mobile device network connectivity and application support.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_1-IT_Concepts_and_Terminology#16-explain-the-troubleshooting-methodology) |
-|1.7 | [Given a scenario, use methods to perform mobile device synchronization.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_1-IT_Concepts_and_Terminology#16-explain-the-troubleshooting-methodology) |
+|1.1 | [Given a scenario, install and configure laptop hardware and components.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_1#11-given-a-scenario-install-and-configure-laptop-hardware-and-components) |
+|1.2 | [Given a scenario, install components within the display of a laptop.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_1#12-given-a-scenario-install-components-within-the-display-of-a-laptop) |
+|1.3 | [Given a scenario, use appropriate laptop features.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_1#13-given-a-scenario-use-appropriate-laptop-features) |
+|1.4 | [Compare and contrast characteristics of various types of other mobile devices.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_1#14-compare-and-contrast-characteristics-of-various-types-of-other-mobile-devices) |
+|1.5 | [Given a scenario, connect and configure accessories and ports of other mobile devices.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_1#15-given-a-scenario-connect-and-configure-accessories-and-ports-of-other-mobile-devices) |
+|1.6 | [Given a scenario, configure basic mobile device network connectivity and application support.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_1#16-given-a-scenario-configure-basic-mobile-device-network-connectivity-and-application-support) |
+|1.7 | [Given a scenario, use methods to perform mobile device synchronization.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_1#17-given-a-scenario-use-methods-to-perform-mobile-device-synchronization) |
 
 
 
