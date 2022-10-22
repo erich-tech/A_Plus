@@ -12,3 +12,8 @@
 |2.8 | [Given a scenario, implement methods for securing mobile devices.](https://github.com/erich-tech/A_Plus/tree/main/Core_2-Domain_2#readme) |
 |2.9 | [Given a scenario, implement appropriate data destruction and disposal methods.](https://github.com/erich-tech/A_Plus/tree/main/Core_2-Domain_2#readme) |
 |2.10 | [Given a scenario, configure security on SOHO wireless and wired networks.](https://github.com/erich-tech/A_Plus/tree/main/Core_2-Domain_2#readme) |
+
+
+```
+NOTE: Work in progress. Please come back again soon! 
+```
