@@ -11,3 +11,8 @@
 |1.7 | [Summarize application installation and configuration concepts.](https://github.com/erich-tech/A_Plus/tree/main/Core_2-Domain_1#readme) |
 |1.8 | [Given a scenario, configure Microsoft Windows networking on a client/desktop.](https://github.com/erich-tech/A_Plus/tree/main/Core_2-Domain_1#readme) |
 |1.9 | [Given a scenario, use features and tools of the Mac OS and Linux client/desktop operating systems.](https://github.com/erich-tech/A_Plus/tree/main/Core_2-Domain_1#readme) |
+
+
+```
+NOTE: Work in progress. Please come back again soon! 
+```
