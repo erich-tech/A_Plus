@@ -15,6 +15,6 @@
 |3.11 | [Given a scenario, install and maintain various print technologies.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_3#readme) |
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
