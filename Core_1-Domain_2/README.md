@@ -13,7 +13,7 @@
 
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 ## 2.1 Compare and contrast TCP and UDP ports, protocols, and their purposes
 
