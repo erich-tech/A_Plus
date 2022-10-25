@@ -10,6 +10,6 @@
 |5.6 | [Given a scenario, troubleshoot printers.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_5#readme) |
 |5.7 | [Given a scenario, troubleshoot common wired and wireless network problems.](https://github.com/erich-tech/A_Plus/tree/main/Core_1-Domain_5#readme) |
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
