@@ -13,7 +13,7 @@
 
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 ## 1.1 Given a scenario, install and configure laptop hardware and components
 ### Hardware/device replacement
