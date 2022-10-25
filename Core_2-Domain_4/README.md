@@ -13,6 +13,6 @@
 |4.9 | [Given a scenario, use remote access technologies.](https://github.com/erich-tech/A_Plus/tree/main/Core_2-Domain_4#readme) |
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
